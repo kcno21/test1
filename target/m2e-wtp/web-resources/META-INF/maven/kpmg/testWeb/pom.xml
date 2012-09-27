@@ -48,7 +48,6 @@
         <version>2.1.1</version>
         <configuration>
           <packagingExcludes>WEB-INF/web.xml</packagingExcludes>
-          <outputDirectory>.</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
